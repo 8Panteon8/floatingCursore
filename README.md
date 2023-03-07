@@ -1,4 +1,4 @@
-# Floating Cursore
+# [Floating Cursore](https://8panteon8.github.io/floatingCursore/)
 
 Interesting animation for cursor on css and some js you can use to decorate your project
 
